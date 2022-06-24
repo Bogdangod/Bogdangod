@@ -1,4 +1,4 @@
-![Header](https://github.com/Bogdangod/Bogdangod/blob/main/assets/name.jpg)
+![Header](https://github.com/Bogdangod/Bogdangod/blob/main/assets/name.jpg)]
 
 About me
 
