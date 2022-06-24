@@ -3,6 +3,6 @@
 ## I'm beginner FrontEnd Developer
 
 ### Languages and tools
-![HTML](https://img.shields.io/badge/-HTML-#911515?style=for-the-badge&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-911515?style=for-the-badge&logo=html)
 
 Follow me
